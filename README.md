@@ -72,6 +72,6 @@ Base Damage: 4
 Allowed Moves:
 The Dragon is limited to one-cell moves in any of the eight directions (including diagonals). This classic omnidirectional movement reflects the notion of a dragon slowly advancing but possibly with powerful, area-of-effect “breath” attacks (as indicated by its skill).
 
-![image](https://github.com/user-attachments/assets/48353fcb-8b89-4637-af37-0d13da3ae224)
+![image](https://github.com/user-attachments/assets/635ef056-1dea-42cb-a800-4952da794020)
 
 
