@@ -1,5 +1,6 @@
 # Grottos-Gremlins
-Grottos&amp;Gremlins game concept from Bully: Scholarship Edition
+
+Play Area: 16x16 grid
 
 Obstacles and Entities:
 
