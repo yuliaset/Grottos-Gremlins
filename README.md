@@ -1,18 +1,20 @@
 # Grottos-Gremlins
 
+Grottos & Gremlins Ruleset
+
 Play Area: 16x16 grid
 
-Obstacles and Entities:
+**Obstacles and Entities:**
 
 - Walls: Three wall segments, each five cells long, are randomly placed on the board. Placement is carefully validated so that a new wall segment does not touch existing walls (even diagonally).
 
 - Trees: Ten trees are also placed randomly on the grid, serving as obstacles that block movement.
 
-- Enemies: The game uses an “enemy deck” of 40 cards (comprising 8 copies of each of five enemy types: Goblin, Wraith, Troll, Imp, and Serpent). At the start of each level, five enemy cards are drawn and placed on the board. Each enemy type has its own hit point (HP) value and is denoted by a rune (e.g., “G” for Goblin)
+- Enemies: The game uses an enemy deck of 40 cards (comprising 8 copies of each of five enemy types: Goblin, Wraith, Troll, Imp, and Serpent). At the start of each level, five enemy cards are drawn and placed on the board. Each enemy type has its own hit point (HP) value and is denoted by a rune (e.g., “G” for Goblin)
 
 Once all enemies have been cleared from a level (or if the enemy deck runs low), the grid and obstacles are reset, and a new set of enemies is drawn from the deck. The game ends if fewer than five enemy cards remain.
 
-Classes:
+**Classes:**
 
 - Warrior:
 
