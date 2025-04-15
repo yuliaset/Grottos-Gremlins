@@ -12,7 +12,7 @@ Obstacles and Entities:
 
 Once all enemies have been cleared from a level (or if the enemy deck runs low), the grid and obstacles are reset, and a new set of enemies is drawn from the deck. The game ends if fewer than five enemy cards remain.
 
-Classes
+Classes:
 
 - Warrior:
 
